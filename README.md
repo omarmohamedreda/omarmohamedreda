@@ -1,25 +1,54 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
-<h1>
-  Hi There I'm Omar Mohamed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<p>
-I'm a software developer passionate about backend development. I specialize in ASP.NET. 
-</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 👨‍💻 I’m currently working on Backend technologies like ASP.NET Core.
+<!--h1 without bottom border-->
 
-  
-- 📫 Social links
-<p>
-<a href="https://www.facebook.com/share/1EEKAQP5vZ/?mibextid=wwXIfr"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/omarmohamedreda/"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/omarmohamd18?igsh=MXY5OTE5cXRycmJreA%3D%3D&utm_source=qr"><img
-    src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
-    alt="Instagram"></a>
-</p>
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Omar Mohamed</h1></summary>
+  </ul>
+</div>
+
+<!--About Me-->
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
+- 💻 I am a `Software Engineer` specialized in **.NET Backend Development**
+- 🎓 Graduating with a degree in `Computer Science`
+- 🏆 Completed multiple internships and training programs in **.NET Core, C#, and SQL Server**
+- 🚀 Currently working on `Backend services for web applications`
+- 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=OmarMohamed&color=EA4335&style=flat-square)](mailto:your-email@example.com)
+- 🌱 Always learning and improving my skills in `Backend Development & Distributed Systems`
+
+<br>
+
+## 🛠️ My Skills
+
+### Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+### Backend Development
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.NET&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=REST-API&logoColor=white)
+
+
+### Software & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 
 
+Credit: [OmarMohamed](https://github.com/omarmohamedreda)
+
+Last Edited on: 09/03/2025
