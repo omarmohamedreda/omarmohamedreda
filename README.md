@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 و
 <!--h1 without bottom border-->
 
@@ -14,7 +14,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 💻 I am a `Software Engineer` specialized in **.NET Backend Development**
+- 💻 I am a `Software Engineer specialized in **.NET Backend Development**
 - 🎓 Graduating with a degree in `Computer Science`
 - 🏆 Completed multiple internships and training programs in **.NET Core, C#, and SQL Server**
 - 🚀 Currently working on `Backend services for web applications`
