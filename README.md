@@ -47,6 +47,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 
+<br>
+## Connect with me:
+
+<p>
+<a href="https://github.com/omarmohamedreda"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/omarmohamedreda"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.instagram.com/omarmohamd18"><img src="https://img.shields.io/badge/-Instagram-orange?logo=instagram&style=flat-square"/></a>
+<a href="mailto:omarmohamedreda2@gmail.com"><img src="https://img.shields.io/badge/-Email-black?logo=gmail&style=flat-square"/></a>
+</p>
+
+
 
 Credit: [OmarMohamed](https://github.com/omarmohamedreda)
 
