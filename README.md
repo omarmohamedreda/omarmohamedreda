@@ -1,5 +1,3 @@
-<!--horizontal divider(gradient)-->
-و
 <!--h1 without bottom border-->
 
 <div id="user-content-toc">
