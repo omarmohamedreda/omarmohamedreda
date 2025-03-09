@@ -46,6 +46,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
+<br>
+
 
 
 ## Contact Me 📫:
@@ -58,6 +60,8 @@
 </p>
 
 
+
+<br>
 
 Credit: [OmarMohamed](https://github.com/omarmohamedreda)
 
