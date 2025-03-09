@@ -19,7 +19,7 @@
 - 🎓 Graduating with a degree in `Computer Science`
 - 🏆 Completed multiple internships and training programs in **.NET Core, C#, and SQL Server**
 - 🚀 Currently working on `Backend services for web applications`
-- 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=OmarMohamed&color=EA4335&style=flat-square)](mailto:your-email@example.com)
+- 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=OmarMohamed&color=EA4335&style=flat-square)](mailto:omarmohamedreda2@gmail.com)
 - 🌱 Always learning and improving my skills in `Backend Development & Distributed Systems`
 
 <br>
