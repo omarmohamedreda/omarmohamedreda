@@ -47,8 +47,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 
-<br>
-## Connect with me:
+
+## Contact Me 📫:
 
 <p>
 <a href="https://github.com/omarmohamedreda"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square"/></a>
