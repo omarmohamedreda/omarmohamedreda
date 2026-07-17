@@ -1,115 +1,151 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
-# Hi there 👋, I'm Omar Mohamed
+# Hi 👋, I'm Omar Mohamed
 
-### .NET Backend Developer
+### 💻 Software Engineer | .NET Backend Developer
+
+<p>
+<a href="mailto:omarmohamedreda2@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omarmohamedreda">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/omarmohamedreda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/> About Me
+## 👨🏻‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
-- 💻 Software Engineer specializing in **.NET Backend Development**
+- 💻 Software Engineer specialized in **.NET Backend Development**
 - 🎓 Computer Science Graduate
-- 🏆 Completed multiple internships and training programs in **.NET, C#, ASP.NET Core & SQL Server**
-- 🚀 Building scalable **REST APIs** using **ASP.NET Core**
-- 🌱 Currently learning **Backend Development & Distributed Systems**
-- 📫 Reach me at **omarmohamedreda2@gmail.com**
+- 🏆 Completed multiple internships in **.NET, ASP.NET Core, SQL Server & C#**
+- 🚀 Passionate about building scalable REST APIs
+- 📍 Cairo, Egypt
+- 📧 **omarmohamedreda2@gmail.com**
 
 <br>
 
-## 🛠️ Tech Stack
+---
 
-### 💻 Programming Languages
+# 🚀 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
 </p>
 
 ---
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,postman" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+
 </p>
 
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- JWT Authentication
+- Microsoft Identity
+
+---
+
+### Tools
+
 <p>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Identity-0078D4?style=for-the-badge"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
 </p>
 
 ---
 
-### 🗄️ Database
+### Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+
 </p>
 
 ---
 
-### 🛠 Software & Tools
+# 📂 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
-</p>
+### 🌱 ReLeaf
+
+Backend API for an afforestation mobile application.
+
+**Tech Stack**
+
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- JWT
+- Identity
 
 ---
 
-### 💻 Operating Systems
+### 🛒 Water Supply Store
 
-<p>
-<img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
+E-commerce website for plumbing materials.
 
-<br>
+---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/omarmohamedreda">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/omarmohamedreda">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
 </a>
 
 <a href="mailto:omarmohamedreda2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45"/>
 </a>
-
-<a href="https://www.instagram.com/omarmohamd18">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omarmohamedreda&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmohamedreda&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=omarmohamedreda&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -117,6 +153,6 @@
 
 <div align="center">
 
-⭐️ From **Omar Mohamed**
+### ⭐ Thanks for visiting my profile!
 
 </div>
