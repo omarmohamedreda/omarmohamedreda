@@ -1,67 +1,122 @@
-<!--h1 without bottom border-->
+<!-- ========================= HEADER ========================= -->
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Omar Mohamed</h1></summary>
-  </ul>
+<div align="center">
+
+# Hi there 👋, I'm Omar Mohamed
+
+### .NET Backend Developer
+
 </div>
 
-<!--About Me-->
+---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/> About Me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<img align="right" width="320" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
-- 💻 I am a Software Engineer specializing in **.NET Backend Development**
-- 🎓 Graduating with a degree in `Computer Science`
-- 🏆 Completed multiple internships and training programs in **.NET Core, C#, and SQL Server**
-- 🚀 Currently working on `Backend services for web applications`
-- 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=OmarMohamed&color=EA4335&style=flat-square)](mailto:omarmohamedreda2@gmail.com)
-- 🌱 Always learning and improving my skills in `Backend Development & Distributed Systems`
-
-<br>
-
-## 🛠️ My Skills
-
-### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
-### Backend Development
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.NET&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=REST-API&logoColor=white)
-
-
-### Software & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white)
-
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+- 💻 Software Engineer specializing in **.NET Backend Development**
+- 🎓 Computer Science Graduate
+- 🏆 Completed multiple internships and training programs in **.NET, C#, ASP.NET Core & SQL Server**
+- 🚀 Building scalable **REST APIs** using **ASP.NET Core**
+- 🌱 Currently learning **Backend Development & Distributed Systems**
+- 📫 Reach me at **omarmohamedreda2@gmail.com**
 
 <br>
 
+## 🛠️ Tech Stack
 
-
-## Contact Me 📫:
+### 💻 Programming Languages
 
 <p>
-<a href="https://github.com/omarmohamedreda"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/omarmohamedreda"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.instagram.com/omarmohamd18"><img src="https://img.shields.io/badge/-Instagram-orange?logo=instagram&style=flat-square"/></a>
-<a href="mailto:omarmohamedreda2@gmail.com"><img src="https://img.shields.io/badge/-Email-black?logo=gmail&style=flat-square"/></a>
-<a href="https://www.facebook.com/share/1EEKAQP5vZ/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/-Facebook-darkblue?logo=facebook&style=flat-square"/></a>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
 </p>
 
+---
 
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,postman" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_Identity-0078D4?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+### 🛠 Software & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+</p>
+
+---
+
+### 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
 
 <br>
 
-Credit: [OmarMohamed](https://github.com/omarmohamedreda)
+## 📫 Connect With Me
 
-Last Edited on: 09/03/2025
+<p align="left">
+
+<a href="https://github.com/omarmohamedreda">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/omarmohamedreda">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:omarmohamedreda2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/omarmohamd18">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omarmohamedreda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmohamedreda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=omarmohamedreda&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐️ From **Omar Mohamed**
+
+</div>
